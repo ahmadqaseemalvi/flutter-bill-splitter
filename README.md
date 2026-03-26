@@ -2,9 +2,6 @@
 
 A clean Flutter utility application to calculate tips and split the total bill.
 
-## Preview
-<img src="screenshot.png" alt="Bill Splitter App" width="300">
-
 ## Tech Stack
 
 * **Framework**: [Flutter](https://flutter.dev/)
@@ -16,3 +13,6 @@ A clean Flutter utility application to calculate tips and split the total bill.
 1. Clone the repository
 2. Run `flutter pub get`
 3. Run `flutter run`
+
+## Preview
+<img src="screenshot.png" alt="Bill Splitter App" width="300">
