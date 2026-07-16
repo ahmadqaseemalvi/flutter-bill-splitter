@@ -1,7 +1,6 @@
-android/* linguist-vendored
-ios/* linguist-vendored
-windows/* linguist-vendored
-linux/* linguist-vendored
-macos/* linguist-vendored
-web/* linguist-vendored
-test/* linguist-vendored
+android/**/* linguist-detectable=false
+ios/**/* linguist-detectable=false
+windows/**/* linguist-detectable=false
+linux/**/* linguist-detectable=false
+macos/**/* linguist-detectable=false
+web/**/* linguist-detectable=false
